@@ -28,7 +28,6 @@ public class Program
 		}
 	}
 
-
 	public static void Main()
 	{
 		var hw = new HelloWorld();
